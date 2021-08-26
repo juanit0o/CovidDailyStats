@@ -20,9 +20,9 @@ try:
             notification.notify(
                 title = statusDay, 
                 message = "Total Cases: " + str(value['cases']) + 
-                ", Cases Today: " +  str(value['todayCases']) + 
-                ", Deaths Today: " + str(value['todayDeaths']) +
-                ", Active Cases: " + str(value['active']),
+                "\nCases Today: " +  str(value['todayCases']) + 
+                "\nDeaths Today: " + str(value['todayDeaths']) +
+                "\nActive Cases: " + str(value['active']),
                 app_icon = "covid.ico",
                 timeout = 30)
             time.sleep(60*60*4)
