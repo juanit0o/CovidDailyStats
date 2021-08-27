@@ -8,7 +8,7 @@ The information contained in each notification are the following fields:
   * Deaths Today
   * Active Cases
 
-<p align="center"><img src="https://i.imgur.com/Z4ufOTT.png" width="350" height="200" alt="Layout of the website"></p>
+<p align="center"><img src="https://i.imgur.com/Z4ufOTT.png" width="380" height="200" alt="Layout of the website"></p>
   
 To let it run in background so that you can get the notifications daily run it as:
 
